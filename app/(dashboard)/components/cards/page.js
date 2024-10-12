@@ -79,7 +79,7 @@ const Cards = () => {
 								<Tab.Content>
 									<Tab.Pane eventKey="design" className="pb-4 p-4">
 										<Card style={{ width: '18rem' }}>
-											<Card.Img variant="top" src="/images/placeholder/placeholder-4by3.svg" />
+											<Card.Img variant="top" src="/admin-naroden-org/images/placeholder/placeholder-4by3.svg" />
 											<Card.Body>
 												<Card.Title>Card Title</Card.Title>
 												<Card.Text>
@@ -342,7 +342,7 @@ const Cards = () => {
 								<Tab.Content>
 									<Tab.Pane eventKey="design" className="pb-4 p-4">
 										<Card style={{ width: '18rem' }}>
-											<Card.Img variant="top" src="/images/placeholder/placeholder-4by3.svg" />
+											<Card.Img variant="top" src="/admin-naroden-org/images/placeholder/placeholder-4by3.svg" />
 											<Card.Body>
 												<Card.Text>
 													Some quick example text to build on the card title and
@@ -396,7 +396,7 @@ const Cards = () => {
 								<Tab.Content>
 									<Tab.Pane eventKey="design" className="pb-4 p-4">
 										<Card style={{ width: '18rem' }}>
-											<Card.Img variant="top" src="/images/placeholder/placeholder-4by3.svg" />
+											<Card.Img variant="top" src="/admin-naroden-org/images/placeholder/placeholder-4by3.svg" />
 											<Card.Body>
 												<Card.Title>Card Title</Card.Title>
 												<Card.Text>
@@ -642,7 +642,7 @@ const Cards = () => {
 									<Tab.Pane eventKey="design" className="pb-4 p-4">
 										{/* Code started */}
 										<Card>
-											<Card.Img variant="top" src="/images/placeholder/placeholder-4by3.svg" />
+											<Card.Img variant="top" src="/admin-naroden-org/images/placeholder/placeholder-4by3.svg" />
 											<Card.Body>
 												<Card.Title>Card title</Card.Title>
 												<Card.Text>
@@ -672,7 +672,7 @@ const Cards = () => {
 													</small>
 												</Card.Text>
 											</Card.Body>
-											<Card.Img variant="bottom" src="/images/placeholder/placeholder-4by3.svg" />
+											<Card.Img variant="bottom" src="/admin-naroden-org/images/placeholder/placeholder-4by3.svg" />
 										</Card>
 										{/* end of code */}
 									</Tab.Pane>
@@ -721,7 +721,7 @@ const Cards = () => {
 									<Tab.Pane eventKey="design" className="pb-4 p-4">
 										{/* Code start */}
 										<Card className="bg-dark text-white">
-											<Card.Img variant="bottom" src="/images/placeholder/placeholder-4by3.svg" />
+											<Card.Img variant="bottom" src="/admin-naroden-org/images/placeholder/placeholder-4by3.svg" />
 											<Card.ImgOverlay>
 												<Card.Title>Card title</Card.Title>
 												<Card.Text>

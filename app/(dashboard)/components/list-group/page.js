@@ -836,7 +836,7 @@ const Listgroups = () => {
 												<span>Created by</span>
 												<div className="d-flex mt-2">
 													<Image
-														src="/images/avatar/avatar-1.jpg"
+														src="/admin-naroden-org/images/avatar/avatar-1.jpg"
 														alt=""
 														className="avatar-sm rounded-circle"
 													/>

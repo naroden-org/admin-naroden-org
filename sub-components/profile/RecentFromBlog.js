@@ -50,7 +50,7 @@ const RecentFromBlog = () => {
             {/* avatar */}
             <div className="d-flex align-items-center">
               <div>
-                <Image src="/images/avatar/avatar-1.jpg" alt="" className="avatar avatar-md rounded-circle" />
+                <Image src="/admin-naroden-org/images/avatar/avatar-1.jpg" alt="" className="avatar avatar-md rounded-circle" />
               </div>
               <div className="ms-3">
                 <h5 className="mb-0 fw-bold">Jitu Chauhan</h5>
@@ -65,7 +65,7 @@ const RecentFromBlog = () => {
           <div className="mb-4">
             {/* text */}
             <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspen disse var ius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
-            <Image src="/images/blog/blog-img-1.jpg" className="rounded-3 w-100" alt="" />
+            <Image src="/admin-naroden-org/images/blog/blog-img-1.jpg" className="rounded-3 w-100" alt="" />
           </div>
           {/* icons */}
           <div className="mb-4">
@@ -78,19 +78,19 @@ const RecentFromBlog = () => {
               <span className="avatar avatar-sm">
                 {/* Image */}
                 <Image alt="avatar"
-                  src="/images/avatar/avatar-7.jpg"
+                  src="/admin-naroden-org/images/avatar/avatar-7.jpg"
                   className="rounded-circle" />
               </span>
               <span className="avatar avatar-sm">
                 {/* Image */}
                 <Image alt="avatar"
-                  src="/images/avatar/avatar-8.jpg"
+                  src="/admin-naroden-org/images/avatar/avatar-8.jpg"
                   className="rounded-circle" />
               </span>
               <span className="avatar avatar-sm">
                 {/* Image */}
                 <Image alt="avatar"
-                  src="/images/avatar/avatar-9.jpg"
+                  src="/admin-naroden-org/images/avatar/avatar-9.jpg"
                   className="rounded-circle" />
               </span>
             </div>
@@ -99,7 +99,7 @@ const RecentFromBlog = () => {
           {/* row */}
           <Row>
             <Col xl={1} lg={2} md={2} xs={12} className="mb-3 mb-lg-0">
-              <Image src="/images/avatar/avatar-1.jpg" className="avatar avatar-md rounded-circle" alt="" />
+              <Image src="/admin-naroden-org/images/avatar/avatar-1.jpg" className="avatar avatar-md rounded-circle" alt="" />
             </Col>
             <Col xl={11} lg={10} md={9} xs={12}>
               <Row className="row g-3 align-items-center">

@@ -10,7 +10,7 @@ const MyTeam = () => {
                 <div className="d-flex justify-content-between align-items-center mb-4">
                     <div className="d-flex align-items-center">
                         <div>
-                            <Image src="/images/avatar/avatar-1.jpg" className="rounded-circle avatar-md" alt="" />
+                            <Image src="/admin-naroden-org/images/avatar/avatar-1.jpg" className="rounded-circle avatar-md" alt="" />
                         </div>
                         <div className="ms-3 ">
                             <h5 className="mb-1">Dianna Smiley</h5>
@@ -26,7 +26,7 @@ const MyTeam = () => {
                 <div className="d-flex justify-content-between align-items-center mb-4">
                     <div className="d-flex align-items-center">
                         <div>
-                            <Image src="/images/avatar/avatar-2.jpg" className="rounded-circle avatar-md" alt="" />
+                            <Image src="/admin-naroden-org/images/avatar/avatar-2.jpg" className="rounded-circle avatar-md" alt="" />
                         </div>
                         <div className="ms-3 ">
                             <h5 className="mb-1">Anne Brewer</h5>
@@ -42,7 +42,7 @@ const MyTeam = () => {
                 <div className="d-flex justify-content-between align-items-center mb-4">
                     <div className="d-flex align-items-center">
                         <div>
-                            <Image src="/images/avatar/avatar-3.jpg" className="rounded-circle avatar-md" alt="" />
+                            <Image src="/admin-naroden-org/images/avatar/avatar-3.jpg" className="rounded-circle avatar-md" alt="" />
                         </div>
                         <div className="ms-3 ">
                             <h5 className="mb-1">Richard Christmas</h5>
@@ -58,7 +58,7 @@ const MyTeam = () => {
                 <div className="d-flex justify-content-between align-items-center">
                     <div className="d-flex align-items-center">
                         <div>
-                            <Image src="/images/avatar/avatar-4.jpg" className="rounded-circle avatar-md" alt="" />
+                            <Image src="/admin-naroden-org/images/avatar/avatar-4.jpg" className="rounded-circle avatar-md" alt="" />
                         </div>
                         <div className="ms-3 ">
                             <h5 className="mb-1">Nicholas Binder</h5>
