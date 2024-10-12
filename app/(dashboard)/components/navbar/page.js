@@ -67,7 +67,7 @@ const Navbars = () => {
 									<Tab.Pane eventKey="all" className="pb-4 p-4">
 										<Navbar expand="lg">
 											<Navbar.Brand href="#home">
-												<Image src="/admin-naroden-org/images/brand/logo/logo-primary.svg" alt="" loading="lazy" />
+												<Image src="/images/brand/logo/logo-primary.svg" alt="" loading="lazy" />
 											</Navbar.Brand>
 											<Navbar.Toggle aria-controls="basic-navbar-nav" />
 											<Navbar.Collapse id="basic-navbar-nav">
@@ -138,7 +138,7 @@ const Navbars = () => {
 										<Navbar>
 											<Navbar.Brand href="#home">
 												<Image
-													src="/admin-naroden-org/images/brand/logo/brand-logo.png"
+													src="/images/brand/logo/brand-logo.png"
 													width="30"
 													height="30"
 													alt=""
@@ -197,7 +197,7 @@ const Navbars = () => {
 											<Container>
 												<Navbar.Brand href="#home">
 													{' '}
-													<Image src="/admin-naroden-org/images/brand/logo/logo.svg" alt="" loading="lazy" />
+													<Image src="/images/brand/logo/logo.svg" alt="" loading="lazy" />
 												</Navbar.Brand>
 												<Nav className="me-auto">
 													<Nav.Link href="#home">Home</Nav.Link>
@@ -211,7 +211,7 @@ const Navbars = () => {
 											<Container>
 												<Navbar.Brand href="#home">
 													{' '}
-													<Image src="/admin-naroden-org/images/brand/logo/logo.svg" alt="" loading="lazy" />
+													<Image src="/images/brand/logo/logo.svg" alt="" loading="lazy" />
 												</Navbar.Brand>
 												<Nav className="me-auto">
 													<Nav.Link href="#home">Home</Nav.Link>
@@ -224,7 +224,7 @@ const Navbars = () => {
 										<Navbar bg="light" variant="light">
 											<Container>
 												<Navbar.Brand href="#home">
-													<Image src="/admin-naroden-org/images/brand/logo/logo-primary.svg" alt="" loading="lazy" className='inverse' />
+													<Image src="/images/brand/logo/logo-primary.svg" alt="" loading="lazy" className='inverse' />
 												</Navbar.Brand>
 												<Nav className="me-auto">
 													<Nav.Link href="#home">Home</Nav.Link>

@@ -38,7 +38,7 @@ const GeneralSetting = () => {
               <Col md={9}>
                 <div className="d-flex align-items-center">
                   <div className="me-3">
-                    <Image src="/admin-naroden-org/images/avatar/avatar-5.jpg" className="rounded-circle avatar avatar-lg" alt="" />
+                    <Image src="/images/avatar/avatar-5.jpg" className="rounded-circle avatar avatar-lg" alt="" />
                   </div>
                   <div>
                     <Button variant="outline-white" className="me-2" type="submit">Change </Button>

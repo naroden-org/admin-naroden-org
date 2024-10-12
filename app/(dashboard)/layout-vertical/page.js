@@ -18,7 +18,7 @@ const Layout = () => {
       <Row className="justify-content-center">
         <Col lg={3} sm={6} className="my-4 ">
           <Link className="card" href="/">
-            <Image className="card-img-top" src="/admin-naroden-org/images/layouts/default-classic.svg" alt="Image Description" />
+            <Image className="card-img-top" src="/images/layouts/default-classic.svg" alt="Image Description" />
             <div className="card-body text-center">
               <h5 className="mb-0">Classic</h5>
             </div>

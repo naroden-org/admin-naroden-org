@@ -1,7 +1,7 @@
 export const DefaultNavbar = `   
 <Navbar expand="lg">                             
     <Navbar.Brand href="#home">
-        <Image src="/admin-naroden-org/images/brand/logo/logo-primary.svg" alt="" loading="lazy"/>
+        <Image src="/images/brand/logo/logo-primary.svg" alt="" loading="lazy"/>
     </Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
@@ -24,7 +24,7 @@ export const DefaultNavbar = `
 export const BrandNavbar = `   
 <Navbar>
     <Navbar.Brand href="#home">
-        <Image src="/admin-naroden-org/images/brand/logo/brand-logo.png" width="30" height="30" alt="" loading="lazy"/>
+        <Image src="/images/brand/logo/brand-logo.png" width="30" height="30" alt="" loading="lazy"/>
     </Navbar.Brand>
 </Navbar> 
     `.trim();
@@ -33,7 +33,7 @@ export const ColorSchemesCode = `
 <Navbar bg="dark" variant="dark">
     <Container>
         <Navbar.Brand href="#home">
-            <Image src="/admin-naroden-org/images/brand/logo/logo.svg" alt="" loading="lazy" />
+            <Image src="/images/brand/logo/logo.svg" alt="" loading="lazy" />
         </Navbar.Brand>
         <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
@@ -45,7 +45,7 @@ export const ColorSchemesCode = `
 <br />
 <Navbar bg="primary" variant="dark">
     <Container>
-        <Navbar.Brand href="#home"> <Image src="/admin-naroden-org/images/brand/logo/logo.svg" alt="" loading="lazy" /></Navbar.Brand>
+        <Navbar.Brand href="#home"> <Image src="/images/brand/logo/logo.svg" alt="" loading="lazy" /></Navbar.Brand>
         <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#features">Features</Nav.Link>
@@ -56,7 +56,7 @@ export const ColorSchemesCode = `
 <br />
 <Navbar bg="light" variant="light">
     <Container>
-        <Navbar.Brand href="#home"> <Image src="/admin-naroden-org/images/brand/logo/logo.svg" alt="" loading="lazy" /></Navbar.Brand>
+        <Navbar.Brand href="#home"> <Image src="/images/brand/logo/logo.svg" alt="" loading="lazy" /></Navbar.Brand>
         <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#features">Features</Nav.Link>
