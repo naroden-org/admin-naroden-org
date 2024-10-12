@@ -14,7 +14,7 @@ const ActivityFeed = () => {
                         
                         <div className="d-flex mb-5">
                             <div>
-                                <Image src="/images/avatar/avatar-6.jpg" className="rounded-circle avatar-md" alt="" />
+                                <Image src="/admin-naroden-org/images/avatar/avatar-6.jpg" className="rounded-circle avatar-md" alt="" />
                             </div>
                             <div className="ms-3 ">
                                 <h5 className="mb-1">Dianna Smiley</h5>
@@ -25,7 +25,7 @@ const ActivityFeed = () => {
                         </div>
                         <div className="d-flex mb-5">
                             <div>
-                                <Image src="/images/avatar/avatar-7.jpg" className="rounded-circle avatar-md" alt="" />
+                                <Image src="/admin-naroden-org/images/avatar/avatar-7.jpg" className="rounded-circle avatar-md" alt="" />
                             </div>
                             <div className="ms-3 ">
                                 <h5 className="mb-1">Irene Hargrove</h5>
@@ -36,7 +36,7 @@ const ActivityFeed = () => {
                         </div>
                         <div className="d-flex">
                             <div>
-                                <Image src="/images/avatar/avatar-9.jpg" className="rounded-circle avatar-md" alt="" />
+                                <Image src="/admin-naroden-org/images/avatar/avatar-9.jpg" className="rounded-circle avatar-md" alt="" />
                             </div>
                             <div className="ms-3 ">
                                 <h5 className="mb-1">Trevor Bradley</h5>

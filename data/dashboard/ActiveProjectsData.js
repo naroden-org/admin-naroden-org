@@ -6,12 +6,12 @@ export const ActiveProjectsData = [
        priorityBadgeBg : 'warning',
        hours: 34,
        progress: 15,
-       brandLogo:'/images/brand/dropbox-logo.svg',
+       brandLogo:'/admin-naroden-org/images/brand/dropbox-logo.svg',
        brandLogoBg : 'bg-white',
        members:[
-        {image:'images/avatar/avatar-1.jpg'},
-        {image:'images/avatar/avatar-2.jpg'},
-        {image:'images/avatar/avatar-3.jpg'}
+        {image:'admin-naroden-org/images/avatar/avatar-1.jpg'},
+        {image:'admin-naroden-org/images/avatar/avatar-2.jpg'},
+        {image:'admin-naroden-org/images/avatar/avatar-3.jpg'}
        ] 
     },
     {
@@ -21,12 +21,12 @@ export const ActiveProjectsData = [
         priorityBadgeBg : 'danger',
         hours: 47,
         progress: 35,
-        brandLogo:'/images/brand/slack-logo.svg',
+        brandLogo:'/admin-naroden-org/images/brand/slack-logo.svg',
         brandLogoBg : 'bg-white',
         members:[
-            {image:'images/avatar/avatar-4.jpg'},
-            {image:'images/avatar/avatar-5.jpg'},
-            {image:'images/avatar/avatar-6.jpg'}
+            {image:'admin-naroden-org/images/avatar/avatar-4.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-5.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-6.jpg'}
         ] 
      },
      {
@@ -36,12 +36,12 @@ export const ActiveProjectsData = [
         priorityBadgeBg : 'info',
         hours: 120,
         progress: 75,
-        brandLogo:'/images/brand/github-logo.svg',
+        brandLogo:'/admin-naroden-org/images/brand/github-logo.svg',
         brandLogoBg : 'bg-white',
         members:[
-            {image:'images/avatar/avatar-7.jpg'},
-            {image:'images/avatar/avatar-8.jpg'},
-            {image:'images/avatar/avatar-9.jpg'}
+            {image:'admin-naroden-org/images/avatar/avatar-7.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-8.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-9.jpg'}
         ] 
      },
      {
@@ -51,12 +51,12 @@ export const ActiveProjectsData = [
         priorityBadgeBg : 'warning',
         hours: 89,
         progress: 63,
-        brandLogo:'/images/brand/3dsmax-logo.svg',
+        brandLogo:'/admin-naroden-org/images/brand/3dsmax-logo.svg',
         brandLogoBg : 'bg-white',
         members:[
-            {image:'images/avatar/avatar-10.jpg'},
-            {image:'images/avatar/avatar-11.jpg'},
-            {image:'images/avatar/avatar-12.jpg'}
+            {image:'admin-naroden-org/images/avatar/avatar-10.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-11.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-12.jpg'}
         ] 
      },
      {
@@ -66,12 +66,12 @@ export const ActiveProjectsData = [
         priorityBadgeBg : 'success',
         hours: 108,
         progress: 100,
-        brandLogo:'/images/brand/layers-logo.svg',
+        brandLogo:'/admin-naroden-org/images/brand/layers-logo.svg',
         brandLogoBg : 'bg-primary',
         members:[
-            {image:'images/avatar/avatar-13.jpg'},
-            {image:'images/avatar/avatar-14.jpg'},
-            {image:'images/avatar/avatar-15.jpg'}
+            {image:'admin-naroden-org/images/avatar/avatar-13.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-14.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-15.jpg'}
         ] 
      },
      {
@@ -81,12 +81,12 @@ export const ActiveProjectsData = [
         priorityBadgeBg : 'info',
         hours: 120,
         progress: 75,
-        brandLogo:'/images/brand/github-logo.svg',
+        brandLogo:'/admin-naroden-org/images/brand/github-logo.svg',
         brandLogoBg : 'bg-white',
         members:[
-            {image:'images/avatar/avatar-16.jpg'},
-            {image:'images/avatar/avatar-17.jpg'},
-            {image:'images/avatar/avatar-18.jpg'}
+            {image:'admin-naroden-org/images/avatar/avatar-16.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-17.jpg'},
+            {image:'admin-naroden-org/images/avatar/avatar-18.jpg'}
         ] 
      }
 ];
