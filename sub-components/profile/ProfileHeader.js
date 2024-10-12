@@ -7,7 +7,7 @@ const ProfileHeader = () => {
     <Row className="align-items-center">
       <Col xl={12} lg={12} md={12} xs={12}>
         {/* Bg */}
-        <div className="pt-20 rounded-top" style={{ background: 'url(/admin-naroden-org/images/background/profile-cover.jpg) no-repeat', backgroundSize: 'cover' }}>
+        <div className="pt-20 rounded-top" style={{ background: 'url(/images/background/profile-cover.jpg) no-repeat', backgroundSize: 'cover' }}>
         </div>
         <div className="bg-white rounded-bottom smooth-shadow-sm ">
           <div className="d-flex align-items-center justify-content-between pt-4 pb-6 px-4">

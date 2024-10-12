@@ -92,7 +92,7 @@ const QuickMenu = () => {
                     className="rounded-circle"
                     id="dropdownUser">
                     <div className="avatar avatar-md avatar-indicators avatar-online">
-                        <Image alt="avatar" src='/admin-naroden-org/images/avatar/avatar-1.jpg' className="rounded-circle" />
+                        <Image alt="avatar" src='/images/avatar/avatar-1.jpg' className="rounded-circle" />
                     </div>
                 </Dropdown.Toggle>
                 <Dropdown.Menu
@@ -168,7 +168,7 @@ const QuickMenu = () => {
                     className="rounded-circle"
                     id="dropdownUser">
                     <div className="avatar avatar-md avatar-indicators avatar-online">
-                        <Image alt="avatar" src='/admin-naroden-org/images/avatar/avatar-1.jpg' className="rounded-circle" />
+                        <Image alt="avatar" src='/images/avatar/avatar-1.jpg' className="rounded-circle" />
                     </div>
                 </Dropdown.Toggle>
                 <Dropdown.Menu
