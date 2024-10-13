@@ -32,6 +32,12 @@ export const DashboardMenu = [
 	},
 	{
 		id: uuid(),
+		title: 'Народен - новини',
+		icon: 'book-open',
+		link: '/news'
+	},
+	{
+		id: uuid(),
 		title: 'LAYOUTS & PAGES',
 		grouptitle: true
 	},
