@@ -46,7 +46,7 @@ const News = () => {
                                         </td>
                                         <td className="align-middle">{item.title}</td>
                                         <td className="align-middle">
-                                            <Link href={`/news/edit/${item.id}`} className="btn btn-success me-1">Редактирай</Link>
+                                            <Link href={`/admin-naroden-org/news/edit/${item.id}`} className="btn btn-success me-1">Редактирай</Link>
                                             <Button variant="danger" className="me-1">Архивирай</Button>
                                         </td>
                                     </tr>
